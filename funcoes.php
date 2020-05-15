@@ -6,3 +6,7 @@ function escreva_nome($nome){
 }
 
 escreva_nome("Flavio");
+
+escreva_nome("Maria");
+
+escreva_nome("João");
